@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# my own exceptions
+texts_pdf_outputs_etc/Files_to_read
